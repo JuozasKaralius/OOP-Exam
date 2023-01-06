@@ -1,0 +1,15 @@
+{
+    "name": "codeacademy/opp-exam",
+    "autoload": {
+        "psr-4": {
+            "Codeacademy\\OppExam\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juozas",
+            "email": "juozas.karalius@codeacademylt.onmicrosoft.com"
+        }
+    ],
+    "require": {}
+}
